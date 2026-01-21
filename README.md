@@ -1,4 +1,4 @@
-Forked from https://github.com/dustin-richards-was-here/wireguard-linux-compat with updates for kernel 5.10.120-tegra, 5.10.216-tegra and 5.15.148-tegra to build Wireguard on an Nvidia Jetson Orin board where the Wireguard module is disabled.
+Forked from https://github.com/dustin-richards-was-here/wireguard-linux-compat with updates for kernel 5.10.120-tegra, 5.10.216-tegra and 5.15.148-tegra to build Wireguard on a Nvidia Jetson Orin board where the Wireguard module is disabled.
 
 Notes: 
 - Make sure to use the correct branch for your kernel version.
