@@ -1,3 +1,5 @@
+__Notice__: This fork is no longer being maintained. The wireguard module is enabled by default in the official ububtu images that i'm using so i have no intention of using this fork in the future. But it will stay as it is for others to clone/fork. 
+
 Forked from https://github.com/dustin-richards-was-here/wireguard-linux-compat with updates for kernel 5.10.120-tegra, 5.10.216-tegra and 5.15.148-tegra to build Wireguard on a Nvidia Jetson Orin board where the Wireguard module is disabled.
 
 Notes: 
